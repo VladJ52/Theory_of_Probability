@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\владик\desktop\проги\тер вер\лаб 1\лаб1\rkiv\myform.h(422): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\владик\desktop\проги\тер вер\лаб 1\лаб1\rkiv\myform.h(534): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+c:\users\владик\desktop\проги\тер вер\лаб 1\лаб1\rkiv\myform.h(536): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+c:\users\владик\desktop\проги\тер вер\лаб 1\лаб1\rkiv\myform.h(538): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\desktop\проги\тер вер\лаб 1\лаб1\rkiv\myform.h(539): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  RKIV.vcxproj -> C:\Users\Владик\Desktop\Проги\Тер Вер\Лаб 1\Лаб1\Debug\RKIV.exe
